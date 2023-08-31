@@ -2,7 +2,7 @@
 
 🥗 **Chef's Salads** - Jasmin
 
-🥪 **Tuna Fish Sandwich** - Name
+🥪 **Tuna Sandwich** - Name
 
 🥘 **Chicken Soup** - Name
 
@@ -10,7 +10,7 @@
 
 ## Interview Questions
 <details> <summary><b>Said</b></summary>
-  
+
 1. 
 
 2.
@@ -102,157 +102,217 @@
 </details>
 
 ## User Stories
-<details> <summary><b>Said</b></summary>
-  
-1. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
 
-2. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+insert completed user story screenshot, example below
+<img width="790" alt="Screenshot 2023-08-30 at 9 19 17 PM" src="https://github.com/rosasam17/RobotApp/assets/63333003/5d36f46c-daad-4096-906b-66ff65fdacb7">
 
-3. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+### Functional and Non-functional Requirements
 
-4. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
-
-5. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
-
-6. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
-
-7. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
-
-8. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
-
-9. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
-  
-10. User Story
-    - Functional Requirement
-    - Non-Functional Requirement
-</details>
-
-<details> <summary><b>Jasmin</b></summary>
+<details> <summary><b>Chef's Salads</b></summary>
   
 1. 
+   Functional: Include diced chicken and cheddar cheese as ingredients.
+   
+   Non-functional: Use child-safe knives and prep 30% smaller salad portions.
 
-2.
+3.  
+   Functional: Include tuna and chopped hard boiled eggs as protein options.
 
-3.
+   Non-functional: Allow user to select desired portion size up to 2 cups.
 
-4.
+5. 
+   Functional: Offer low-calorie dressing options like vinaigrette.
+   
+   Non-functional: Allow user to cap maximum calories for salad recipe.
 
-5.
+7. 
+   Functional: Include menu of vegetable options like tomatoes, peppers, onions, etc. to add.
+   
+   Non-functional: Robot should slice veggies into uniform thin slices for best mouthfeel.
 
-6.
+8. 
+   Functional: Leave out croutons and select gluten-free dressings.
 
-7.
+   Non-functional: Check all ingredients for gluten and confirm recipe is gluten-free.
 
-8.
+1.
+    Functional: Default to entree-sized portions with added protein.
 
-9.
+    Non-functional: Salad must contain at least 15g protein.
 
-10.
+
+3. Functional: Include bacon bits, cucumber, beets, and onion as ingredient options.
+
+    Non-functional: Dressings must be creamy ranch or balsamic vinaigrette.
+
+
+3. Functional: Do not include nuts among ingredient options.
+
+   Non-functional: Confirm no risk of cross-contamination from manufacturing.
+
+5. Functional: Prompt user to add ingredients to robot immediately before preparing recipe.
+
+   Non-functional: All ingredients must be used within 5 days of purchase.
+   
 </details>
 
-<details> <summary><b>Nayna</b></summary>
+<details> <summary><b>Chicken Soup</b></summary>
   
-  
-1. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+1. 
+   Functional: 
+   
+   Non-functional:
 
-2. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+2. 
+   Functional: 
+   
+   Non-functional: 
 
-3. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+3. 
+   Functional: 
+   
+   Non-functional:
 
-4. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+4. 
+   Functional: 
+   
+   Non-functional:
 
-5. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+5. 
+   Functional: 
+   
+   Non-functional:
 
-6. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+6. 
+   Functional: 
+   
+   Non-functional: 
 
-7. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+7. 
+   Functional: 
+   
+   Non-functional:
 
-8. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+8. 
+   Functional: 
+   
+   Non-functional:
 
-9. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
-  
-10. User Story
-    - Functional Requirement
-    - Non-Functional Requirement
+9. 
+   Functional: 
+   
+   Non-functional:
+
+10.  Functional:
+    
+     Non-functional:
+
 </details>
 
-<details> <summary><b>Rosa</b></summary>
+<details> <summary><b>Tuna Sandwich</b></summary>
   
-1. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+1. 
+   Functional: 
+   
+   Non-functional:
 
-2. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+2. 
+   Functional: 
+   
+   Non-functional: 
 
-3. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+3. 
+   Functional: 
+   
+   Non-functional:
 
-4. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+4. 
+   Functional: 
+   
+   Non-functional:
 
-5. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+5. 
+   Functional: 
+   
+   Non-functional:
 
-6. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+6. 
+   Functional: 
+   
+   Non-functional: 
 
-7. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+7. 
+   Functional: 
+   
+   Non-functional:
 
-8. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+8. 
+   Functional: 
+   
+   Non-functional:
 
-9. User Story 
-   - Functional Requirement
-   - Non-Functional Requirement
+9. 
+   Functional: 
+   
+   Non-functional:
+
+10.  Functional:
+    
+     Non-functional:
+
+</details>
+
+<details> <summary><b>Chili and Rice</b></summary>
   
-10. User Story
-    - Functional Requirement
-    - Non-Functional Requirement
+1. 
+   Functional: 
+   
+   Non-functional:
+
+2. 
+   Functional: 
+   
+   Non-functional: 
+
+3. 
+   Functional: 
+   
+   Non-functional:
+
+4. 
+   Functional: 
+   
+   Non-functional:
+
+5. 
+   Functional: 
+   
+   Non-functional:
+
+6. 
+   Functional: 
+   
+   Non-functional: 
+
+7. 
+   Functional: 
+   
+   Non-functional:
+
+8. 
+   Functional: 
+   
+   Non-functional:
+
+9. 
+   Functional: 
+   
+   Non-functional:
+
+10.  Functional:
+
+     Non-functional:
+
 </details>
 
 ## Prioritized Requirements
