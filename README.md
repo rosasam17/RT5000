@@ -2,11 +2,11 @@
 
 🥗 **Chef's Salads** - Jasmin
 
-🥪 **Tuna Sandwich** - Name
+🥪 **Tuna Sandwich** - Nayna
 
-🥘 **Chicken Soup** - Name
+🥘 **Chicken Soup** - Rosa
 
-🍛 **Chili and Rice** - Name
+🍛 **Chili and Rice** - Said
 
 ## Interview Questions
 <details> <summary><b>Said</b></summary>
