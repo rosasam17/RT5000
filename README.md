@@ -80,25 +80,25 @@
 
 <details> <summary><b>Rosa</b></summary>
   
-1. 
+1. What type of soup base will this recipe call for?
 
-2.
+2. Will the user be able to tweak the recipe based on allergies and portion sizes?
 
-3.
+3. How quickly will the RT5000 be expected to make this recipe?
 
-4.
+4. What tools have the RT5000 used prior to making a chicken soup?
 
-5.
+5. What type of material is the RT5000 made of? Will it be water and heat resistent in case of any mishaps?
 
-6.
+6. Will we need to program RT5000 to cleanup directly after the soup is made?
 
-7.
+7. How many serving sizes will RT5000 be able to produce at once?
 
-8.
+8. Would you want a simple chicken soup with or without noodles?
 
-9.
+9. Would you want extra toppings for this salad? If so, which ones?
 
-10.
+10. What types of seasonings would this recipie require?
 </details>
 
 ## User Stories
@@ -159,53 +159,49 @@ insert completed user story screenshot, example below
 <details> <summary><b>Chicken Soup</b></summary>
   
 1. 
-   Functional: 
+   Functional: This robot must include real chicken, no substitutes.
    
-   Non-functional:
+   Non-functional: The chicken will be cubed into half inch squares.
 
 2. 
-   Functional: 
+   Functional: The RT5000 will self sanitize before any recipe is started.
    
-   Non-functional: 
+   Non-functional: The self sanitizing process will occur every 45 minutes.
 
 3. 
-   Functional: 
+   Functional: This recipe will have seasonings such as chicken bullion, salt, pepper, garlic podwer, rosemary and thyme.
    
-   Non-functional:
+   Non-functional: The seasoning will disperse in tbs increments 10 seconds after the other.
 
 4. 
-   Functional: 
+   Functional: This recipe will use chicken stock.
    
-   Non-functional:
+   Non-functional: The recipe will use 4 cups of chicken stock.
 
 5. 
-   Functional: 
+   Functional: This recipie will be a low sodium soup.
    
-   Non-functional:
+   Non-functional: The salt will need to be 50% less sodium salt from the Morton brand.
 
 6. 
-   Functional: 
+   Functional: The soup will be hot.
    
-   Non-functional: 
+   Non-functional: The soup must be between 136 and 162 degrees farenheight upon completion. 
 
 7. 
-   Functional: 
+   Functional: The soup will have optional toppings.
    
-   Non-functional:
+   Non-functional: Each topping will disperse a half cup of whichever topping is chosen.
 
 8. 
-   Functional: 
-   
-   Non-functional:
+   Functional: The soup will be able to make a family size or individual meal.
 
-9. 
-   Functional: 
-   
-   Non-functional:
+   Non-functional: The threshold for the amount of servings will be 6. The range odd serving sizes will be 1-6.
 
-10.  Functional:
-    
-     Non-functional:
+10. 
+   Functional: The recipie will contain carrots and celery.
+   
+   Non-functional: The RT5000 will be able to measure 2 cups of carrots and 1 cup of celery to be put in 1 minute after the chicken is added.
 
 </details>
 
