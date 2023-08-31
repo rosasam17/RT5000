@@ -34,25 +34,25 @@
 
 <details> <summary><b>Jasmin</b></summary>
   
-1. 
+1. What are the main ingredients that should be included in a chef salad recipe for the RT5000?
 
-2.
+2. Should the recipes focus on certain salad greens like romaine, spinach, arugula, etc. or allow for a mix?
 
-3.
+3. What types of proteins would you want incorporated - grilled chicken, hard boiled eggs, tuna, etc.?
 
-4.
+4. Would you want recipes that include cheese or avoid dairy? If so, what types of cheese?
 
-5.
+5. What chopped vegetables should be standard for these chef salad recipes - tomatoes, cucumbers, peppers, etc.?
 
-6.
+6. Would croutons or crunchy toppings be a desired ingredient?
 
-7.
+7. What types of dressings would you want as options - vinaigrettes, creamy dressings, oil and vinegar, etc.?
 
-8.
+8. Should there be recipes for both side salad portions and entree-sized salads?
 
-9.
+9. How should the robot handle chopping and mixing ingredients? Does the order matter?
 
-10.
+10. What bowl or container should the robot plan to assemble and serve the salad in?
 </details>
 
 <details> <summary><b>Nayna</b></summary>
