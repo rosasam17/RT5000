@@ -115,45 +115,51 @@ insert completed user story screenshot, example below
    
    Non-functional: Use child-safe knives and prep 30% smaller salad portions.
 
-3.  
+2.  
    Functional: Include tuna and chopped hard boiled eggs as protein options.
 
    Non-functional: Allow user to select desired portion size up to 2 cups.
 
-5. 
+3. 
    Functional: Offer low-calorie dressing options like vinaigrette.
    
    Non-functional: Allow user to cap maximum calories for salad recipe.
 
-7. 
+4. 
    Functional: Include menu of vegetable options like tomatoes, peppers, onions, etc. to add.
    
    Non-functional: Robot should slice veggies into uniform thin slices for best mouthfeel.
 
-8. 
+5. 
    Functional: Leave out croutons and select gluten-free dressings.
 
    Non-functional: Check all ingredients for gluten and confirm recipe is gluten-free.
 
-1.
+6.
     Functional: Default to entree-sized portions with added protein.
 
     Non-functional: Salad must contain at least 15g protein.
 
+7.
+   Functional: Include bacon bits, cucumber, beets, and onion as ingredient options.
 
-3. Functional: Include bacon bits, cucumber, beets, and onion as ingredient options.
+   Non-functional: Dressings must be creamy ranch or balsamic vinaigrette.
 
-    Non-functional: Dressings must be creamy ranch or balsamic vinaigrette.
-
-
-3. Functional: Do not include nuts among ingredient options.
+8.
+   Functional: Do not include nuts among ingredient options.
 
    Non-functional: Confirm no risk of cross-contamination from manufacturing.
-
-5. Functional: Prompt user to add ingredients to robot immediately before preparing recipe.
+  
+9.
+   Functional: Prompt user to add ingredients to robot immediately before preparing recipe.
 
    Non-functional: All ingredients must be used within 5 days of purchase.
-   
+  
+10.
+    Functional:
+
+    Non-functional:
+
 </details>
 
 <details> <summary><b>Chicken Soup</b></summary>
@@ -197,6 +203,11 @@ insert completed user story screenshot, example below
    Functional: The soup will be able to make a family size or individual meal.
 
    Non-functional: The threshold for the amount of servings will be 6. The range odd serving sizes will be 1-6.
+
+ 9. 
+   Functional: The serving will be poured directly into bowls.
+   
+   Non-functional: It will take 30 seconds for each serving size to be served.
 
 10. 
    Functional: The recipie will contain carrots and celery.
