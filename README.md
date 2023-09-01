@@ -146,19 +146,19 @@ insert completed user story screenshot, example below
    Non-functional: Dressings must be creamy ranch or balsamic vinaigrette.
 
 8.
-   Functional: Do not include nuts among ingredient options.
+   Functional: Allow users to add crispy toppings like wonton strips or tortilla chips.
 
-   Non-functional: Confirm no risk of cross-contamination from manufacturing.
+Non-functional: Toppings must stay crispy at least 15 minutes after dressing.
   
 9.
-   Functional: Prompt user to add ingredients to robot immediately before preparing recipe.
+   Functional: Do not include nuts among ingredient options.
 
-   Non-functional: All ingredients must be used within 5 days of purchase.
+Non-functional: Confirm no risk of cross-contamination from manufacturing.
   
 10.
-    Functional:
+    Functional: Prompt user to add ingredients to robot immediately before preparing recipe.
 
-    Non-functional:
+Non-functional: All ingredients must be used within 5 days of purchase.
 
 </details>
 
