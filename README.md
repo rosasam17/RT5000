@@ -12,25 +12,25 @@
 
 <details> <summary><b>Said</b></summary>
 
-1.
+1. what kind of spices do you like?
 <br>
-2.
+2. what type of rices do you want to see on the app?
 <br>
-3.
+3. Are you allergic to any beans , spicys?
 <br>
-4.
+4. What kind of beans do you prefer?
 <br>
-5.
+5. What kind of meat do you want in your chilli?
 <br>
-6.
+6. How spicy should the chilli be 1-10?
 <br>
-7.
+7. Do you want any extra toppings with your chilli?
 <br>
-8.
+8. Would you prefer a less calroie chill?
 <br>
-9.
+9. Do you want a vegeterian option?
 <br>
-10.
+10. What serving size would you prefer?
 </details>
 <br>
 <details> <summary><b>Jasmin</b></summary>
