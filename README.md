@@ -178,7 +178,7 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 1. 
    Functional: This robot must include real chicken, no substitutes.
    
-   Non-functional: The chicken will be cubed into half inch squares.
+   Non-functional: The chicken will be cubed into half inch squares and be dispersed immediately after soup boils.
    <br>
 
 2. 
@@ -196,7 +196,7 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 4. 
    Functional: This recipe will use chicken stock.
    
-   Non-functional: The recipe will use 4 cups of chicken stock.
+   Non-functional: The chicken stock will be measured in precise measurements.
    <br>
 
 5. 
@@ -214,7 +214,7 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 7. 
    Functional: The soup will have optional toppings.
    
-   Non-functional: Each topping will disperse a half cup of whichever topping is chosen.
+   Non-functional: Each topping will disperse a half cup of whichever topping is chosen right after the recipie is made.
    <br>
 
 8. 
