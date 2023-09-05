@@ -58,25 +58,25 @@
 
 <details> <summary><b>Nayna</b></summary>
   
-1. 
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
+1. Can you provide a step-by-step breakdown of the tuna sandwich preparation process?
+<br>
+2. Can users customize the type of bread and condiments for the sandwich? How is this specified?
+<br>
+3. How does the robot determine the appropriate amount of tuna to use for each sandwich?
+<br>
+4. How does the RT5000 ensure an even and consistent spread of the condiment on the bread?
+<br>
+5. How intuitive is the RT5000’s app for users who might not be tech-savvy?
+<br>
+6. Can users specify preferences such as toasted bread or the inclusion of additional ingredients like cheese?
+<br>
+7. How flexible is the robot’s customization to suit individual taste preferences?
+<br>
+8. How does the robot handle any spills or messes that occur during the sandwich-making process?
+<br>
+9. How does the robot ensure a visually appealing presentation?
+<br>
+10. How does the robot handle interruptions, such as power outages or accidental stops?
 </details>
 
 <details> <summary><b>Rosa</b></summary>
