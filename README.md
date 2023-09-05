@@ -55,9 +55,9 @@
 <br>
 10. What bowl or container should the robot plan to assemble and serve the salad in?
 </details>
-
+<br>
 <details> <summary><b>Nayna</b></summary>
-  
+ <br> 
 1. Can you provide a step-by-step breakdown of the tuna sandwich preparation process?
 <br>
 2. Can users customize the type of bread and condiments for the sandwich? How is this specified?
