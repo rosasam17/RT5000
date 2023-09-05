@@ -368,18 +368,5 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 
 ## Wireframes
 
-**Said's Wireframe**
-
 ( insert photo here ) 
 
-**Jasmin's Wireframe**
-
-( insert photo here ) 
-
-**Nayna's Wireframe**
-
-( insert photo here ) 
-
-**Rosa's Wireframe**
-
-( insert photo here ) 
