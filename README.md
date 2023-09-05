@@ -50,7 +50,7 @@
 7. What types of dressings would you want as options - vinaigrettes, creamy dressings, oil and vinegar, etc.?
 
 8. Should there be recipes for both side salad portions and entree-sized salads?
-
+<br>
 9. How should the robot handle chopping and mixing ingredients? Does the order matter?
 
 10. What bowl or container should the robot plan to assemble and serve the salad in?
