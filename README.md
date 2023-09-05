@@ -55,11 +55,11 @@
 <br>
 10. What bowl or container should the robot plan to assemble and serve the salad in?
 </details>
-<br>
+
 <details> <summary><b>Nayna</b></summary>
- <br> 
+ 
 1. Can you provide a step-by-step breakdown of the tuna sandwich preparation process?
-<br>
+ <br>
 2. Can users customize the type of bread and condiments for the sandwich? How is this specified?
 <br>
 3. How does the robot determine the appropriate amount of tuna to use for each sandwich?
@@ -117,7 +117,7 @@ insert completed user story screenshot, example below
    Non-functional: Use child-safe knives and prep 30% smaller salad portions.
    <br>
 
-3.  
+2.  
    Functional: Include tuna and chopped hard boiled eggs as protein options.
 
    Non-functional: Allow user to select desired portion size up to 2 cups.
@@ -129,31 +129,31 @@ insert completed user story screenshot, example below
    Non-functional: Allow user to cap maximum calories for salad recipe.
    <br>
 
-5. 
+4. 
    Functional: Include menu of vegetable options like tomatoes, peppers, onions, etc. to add.
    
    Non-functional: Robot should slice veggies into uniform thin slices for best mouthfeel.
    <br>
 
-7. 
+5. 
    Functional: Leave out croutons and select gluten-free dressings.
 
    Non-functional: Check all ingredients for gluten and confirm recipe is gluten-free.
    <br>
 
-9.
+6.
     Functional: Default to entree-sized portions with added protein.
 
     Non-functional: Salad must contain at least 15g protein.
   <br>
 
-11.
+7.
    Functional: Include bacon bits, cucumber, beets, and onion as ingredient options.
 
    Non-functional: Dressings must be creamy ranch or balsamic vinaigrette.
    <br>
 
-13.
+8.
    Functional: Allow users to add crispy toppings like wonton strips or tortilla chips.
 
 Non-functional: Toppings must stay crispy at least 15 minutes after dressing.
@@ -240,55 +240,64 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 <details> <summary><b>Tuna Sandwich</b></summary>
   
 1. 
-   Functional: 
+   Functional: Allow users to select and specify their preferred ingredients, including type of bread, lettuce, tomatoes, and mayonnaise.
    
-   Non-functional:
+   Non-functional: The app should be designed to a simple and intuitive user experience in mind.
    <br>
 
+2. 
+   Functional: Allow users to specify and adjust portion sizes for each tuna sandwich.
+   
+   Non-functional: The robot should be able to assemble the sandwich within a reasonable time frame.
+   <br>
+   
 3. 
-   Functional: 
+   Functional: The robot should be capable of receiving and processing customer orders.
    
-   Non-functional: 
-<br>
+   Non-functional: The robot should operate reliably without frequent breakdowns or interruptions during the sandwich preparation process
+   <br>
+   
 4. 
-   Functional: 
+   Functional: Allow users to input their specific dietary restrictions and preferences.
    
-   Non-functional:
+   Non-functional: The robot should calculate and display the nutritional information of the prepared sandwich.
 <br>
+
 5. 
-   Functional: 
+   Functional: Allow users to add a specific amount of condiments and veggies.
    
-   Non-functional:
+   Non-functional: The app’s user interface should be designed for a seamless and enjoyable user experience.
 <br>
+
 6. 
-   Functional: 
+   Functional: Allow users to customize the crunchiness level of their tuna sandwich by making the bread soft or toasted.
    
-   Non-functional:
+   Non-functional: The robot should prepare the sandwich in the right order to avoid soggy food.
 <br>
+
 7. 
-   Functional: 
+   Functional: Provide a wide selection of ingredients, condiments, and toppings.
    
-   Non-functional: 
+   Non-functional:The robot should store and organize the user’s unique tuna sandwich recipes, making it easy to access and recreate the sandwich in the future.
 <br>
+
 8. 
-   Functional: 
+   Functional: Provide low calorie options for condiments.
    
-   Non-functional:
+   Non-functional: The robot should provide a support system to provide users with any issues or questions related to the recipe.
 <br>
+
 9. 
-   Functional: 
+   Functional: Allow users to choose from many kinds of cheese like pepper jack, american, swiss, etc.
    
-   Non-functional:
+   Non-functional: The cheese will be sliced thinly and provide options to add more.
 <br>
-10. 
-   Functional: 
-   
-   Non-functional:
-<br>
-11.  Functional:
+
+10.  Functional: Allow users to request an ingredient substitution and provide suitable alternatives.
     
-     Non-functional:
+     Non-functional: Check all ingredients properly to ensure the right product is on the sandwich.
 <br>
+
 </details>
 
 <details> <summary><b>Chili and Rice</b></summary>
