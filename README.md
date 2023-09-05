@@ -366,7 +366,8 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 
 10.
 
-## Wireframes
+## Wireframe
 
-( insert photo here ) 
+<img width="1007" alt="Screenshot 2023-09-05 at 2 46 31 PM" src="https://github.com/rosasam17/RT5000/assets/63333003/510127a6-38c4-4bbb-a9b8-c16f4359b7ce">
+
 
