@@ -181,49 +181,49 @@ Non-functional: All ingredients must be used within 5 days of purchase.
    Non-functional: The chicken will be cubed into half inch squares.
    <br>
 
-3. 
+2. 
    Functional: The RT5000 will self sanitize before any recipe is started.
    
    Non-functional: The self sanitizing process will occur every 45 minutes.
    <br>
 
-5. 
+3. 
    Functional: This recipe will have seasonings such as chicken bullion, salt, pepper, garlic podwer, rosemary and thyme.
    
    Non-functional: The seasoning will disperse in tbs increments 10 seconds after the other.
    <br>
 
-7. 
+4. 
    Functional: This recipe will use chicken stock.
    
    Non-functional: The recipe will use 4 cups of chicken stock.
    <br>
 
-9. 
+5. 
    Functional: This recipie will be a low sodium soup.
    
    Non-functional: The salt will need to be 50% less sodium salt from the Morton brand.
    <br>
 
-11. 
+6. 
    Functional: The soup will be hot.
    
    Non-functional: The soup must be between 136 and 162 degrees farenheight upon completion. 
    <br>
 
-11. 
+7. 
    Functional: The soup will have optional toppings.
    
    Non-functional: Each topping will disperse a half cup of whichever topping is chosen.
    <br>
 
-11. 
+8. 
    Functional: The soup will be able to make a family size or individual meal.
 
    Non-functional: The threshold for the amount of servings will be 6. The range odd serving sizes will be 1-6.
    <br>
 
- 11. 
+ 9. 
    Functional: The serving will be poured directly into bowls.
    
    Non-functional: It will take 30 seconds for each serving size to be served.
@@ -346,11 +346,11 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 
 ## Prioritized Requirements
 
-1.
+1. The robot will be self cleaning and on a self cleaning cycle every 45 mins.
 
-2.
+2. After the recipie is made, the RT5000 will dispense each serving directly into the bowls. This will take 30 seconds or less for each serving.
 
-3.
+3. Each recipie will allow for optional extra toppings. They will dispense in increments of 1/2 cups and up to 2 cups per topping.
 
 4.
 
