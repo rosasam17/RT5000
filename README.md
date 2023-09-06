@@ -371,20 +371,13 @@ The robot will look at time as a factor and will be efficient for customer satis
 
 The robot will have a low sodium salt option and also able to make the recipies with no salt at all for users with that preference.
 
-7. 
-8. 
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
+7. **Provide a wide selection of ingredients, condiments, and toppings.**
+A wide selection of ingredients caters to a broad audience with varying tastes and allowing users to experiment with different combinations.
+8. **Allow users to request an ingredient substitution and provide suitable alternatives.**
+The feature welcomes users with diverse dietary preferences, whether they follow specific diets like veganism, have allergies, or simply prefer alternatives for personal reasons.
+9. **The robot should be capable of receiving and processing customer orders.**
+The robot will create the sandwich the user requested right after recieving it.
+10
 
 
 
