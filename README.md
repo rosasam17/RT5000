@@ -85,17 +85,17 @@
 <br>
 3. How quickly will the RT5000 be expected to make this recipe?
 <br>
-4. What tools have the RT5000 used prior to making a chicken soup?
+4. What type of cookware would you like the RT5000 to use?
 <br>
-5. What type of material is the RT5000 made of? Will it be water and heat resistent in case of any mishaps?
+5. Would you like vegetarian/ vegan options?
 <br>
 6. Will we need to program RT5000 to cleanup directly after the soup is made?
 <br>
-7. How many serving sizes will RT5000 be able to produce at once?
+7. How many serving sizes would you like the RT5000 to be able to produce at once?
 <br>
 8. Would you want a simple chicken soup with or without noodles?
 <br>
-9. Would you want extra toppings for this salad? If so, which ones?
+9. Would you want extra toppings for this soup? If so, which ones?
 <br>
 10. What types of seasonings would this recipie require?
 </details>
@@ -309,7 +309,7 @@
    Non-functional: 
 <br><br>
 3. 
-   Functional: 
+   Functional:
    <br>
    Non-functional:
 <br>
@@ -359,19 +359,26 @@ The robot will create recipes based on the ingredients you only have on hand, ma
 3. **Default to entree-sized portions with added protein.**
 Robot intuitively knows the salad is a complete meal instead of a side.
 
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+4. **RT5000 will be put on a self cleaning mode to sanitize before and after recipies are complete**
+The robot will know when to start and finish the sanitation process to make sure there are no contaminents or bacteria.
+5. **The RT5000 will be able to dish out meals after it is cooked in 30 seconds for efficiency**
+The robot will look at time as a factor and will be efficient for customer satisfaction and a speedy process.
+6. **The robot will have a low sodium option and be availible to use minimal salt if prompted**
+The robot will have a low sodium salt option and also able to make the recipies with no salt at all for users with that preference.
+7. 
+8. 
 
 9.
 
 10.
+
+11.
+
+12.
+
+13.
+
+14.
 
 
 
