@@ -345,11 +345,11 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 
 ## Prioritized Requirements
 
-1. The robot will be self cleaning and on a self cleaning cycle every 45 mins.
+1. 
 
-2. After the recipie is made, the RT5000 will dispense each serving directly into the bowls. This will take 30 seconds or less for each serving.
+2. 
 
-3. Each recipie will allow for optional extra toppings. They will dispense in increments of 1/2 cups and up to 2 cups per topping.
+3.
 
 4.
 
@@ -362,8 +362,6 @@ Non-functional: All ingredients must be used within 5 days of purchase.
 8.
 
 9.
-
-10.
 
 ## Wireframes
 
