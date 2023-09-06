@@ -113,54 +113,60 @@
    <br>
    Non-functional: Use child-safe knives and prep 30% smaller salad portions.
    <br>
+   
 3.  
    Functional: Include tuna and chopped hard boiled eggs as protein options.
-<br>
+   <br>
    Non-functional: Allow user to select desired portion size up to 2 cups.
    <br>
+   
 3. 
    Functional: Offer low-calorie dressing options like vinaigrette.
    <br>
    Non-functional: Allow user to cap maximum calories for salad recipe.
    <br>
+   
 4. 
    Functional: Include menu of vegetable options like tomatoes, peppers, onions, etc. to add.
    <br>
    Non-functional: Robot should slice veggies into uniform thin slices for best mouthfeel.
    <br>
+   
 5. 
    Functional: Leave out croutons and select gluten-free dressings.
-<br>
+   <br>
    Non-functional: Check all ingredients for gluten and confirm recipe is gluten-free.
    <br>
+   
 6.
     Functional: Default to entree-sized portions with added protein.
-<br>
+   <br>
     Non-functional: Salad must contain at least 15g protein.
-  <br>
+   <br>
+   
 7.
    Functional: Include bacon bits, cucumber, beets, and onion as ingredient options.
-<br>
+   <br>
    Non-functional: Dressings must be creamy ranch or balsamic vinaigrette.
    <br>
-
+   
 8.
-   Functional: Allow users to add crispy toppings like wonton strips or tortilla chips.
-<br>
-Non-functional: Toppings must stay crispy at least 15 minutes after dressing.
-<br>
+  Functional: Allow users to add crispy toppings like wonton strips or tortilla chips.
+  <br>
+  Non-functional: Toppings must stay crispy at least 15 minutes after dressing.
+  <br>
   
 9.
-   Functional: Do not include nuts among ingredient options.
-<br>
-Non-functional: Confirm no risk of cross-contamination from manufacturing.
-<br>
+  Functional: Do not include nuts among ingredient options.
+  <br>
+  Non-functional: Confirm no risk of cross-contamination from manufacturing.
+  <br>
   
 10.
-    Functional: Prompt user to add ingredients to robot immediately before preparing recipe.
-<br>
-Non-functional: All ingredients must be used within 5 days of purchase.
-<br>
+  Functional: Prompt user to add ingredients to robot immediately before preparing recipe.
+  <br>
+  Non-functional: All ingredients must be used within 5 days of purchase.
+  <br>
 
 </details>
 
