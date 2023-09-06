@@ -360,11 +360,17 @@ The robot will create recipes based on the ingredients you only have on hand, ma
 Robot intuitively knows the salad is a complete meal instead of a side.
 
 4. **RT5000 will be put on a self cleaning mode to sanitize before and after recipies are complete**
+
 The robot will know when to start and finish the sanitation process to make sure there are no contaminents or bacteria.
+
 5. **The RT5000 will be able to dish out meals after it is cooked in 30 seconds for efficiency**
+
 The robot will look at time as a factor and will be efficient for customer satisfaction and a speedy process.
+
 6. **The robot will have a low sodium option and be availible to use minimal salt if prompted**
+
 The robot will have a low sodium salt option and also able to make the recipies with no salt at all for users with that preference.
+
 7. 
 8. 
 
