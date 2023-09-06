@@ -351,20 +351,27 @@
 
 ## Prioritized Requirements
 
-> 1. **Prompt user to add ingredients to robot immediately before preparing recipe.**
+1. **Prompt user to add ingredients to robot immediately before preparing recipe.**
 <br>
 The robot will create recipes based on the ingredients you only have on hand, making it less likely to choose a recipe you can't create
-> 2. **Allow user to cap maximum calories for salad recipe.** 
+2. **Allow user to cap maximum calories for salad recipe.** 
 <br> Makes it easy for the user not to go over their calorie limit instead of having to calculate the number of cals in all ingredients
-> 3. **Default to entree-sized portions with added protein.**
+3. **Default to entree-sized portions with added protein.**
 Robot intuitively knows the salad is a complete meal instead of a side.
-> 4.
-> 5.
-> 6.
-> 7.
-> 8.
-> 9.
-> 10.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
 
 
 
