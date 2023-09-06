@@ -298,54 +298,55 @@
 
 <details> <summary><b>Chili and Rice</b></summary>
   
-1. 
-   Functional: 
-   <br>
-   Non-functional:
-<br><br>
-2. 
-   Functional: 
-   <br>
-   Non-functional: 
-<br><br>
-3. 
-   Functional:
-   <br>
-   Non-functional:
+1.
+   Functional: It should have a recipe for preparing chili with low sodium content.
+   
+   Non-functional: The robot should be reliable and safe for use by elderly individuals.
 <br>
-4. 
-   Functional: 
-   <br>
-   Non-functional:
-<br><br>
-5. 
-   Functional: 
-   <br>
-   Non-functional:
-<br><br>
-6. 
-   Functional: 
-   <br>
-   Non-functional: 
-<br><br>
-7. 
-   Functional: 
-   <br>
-   Non-functional:
-<br><br>
-8. 
-   Functional: 
-   <br>
-   Non-functional:
-<br><br>
-9. 
-   Functional: 
-   <br>
-   Non-functional:
-<br><br>
-10.  Functional:
+2.
+   Functional: The robot should have a recipe for a lower-calorie chili and rice dish.
+   
+   Non-functional: The robot should be able to prepare the meal efficiently to meet the user's fitness goals.
 <br>
-     Non-functional:
+3.
+   Functional: The robot should be capable of detecting and reducing the heat of ingredients like chili peppers.
+   
+   Non-functional: The robot should provide a user-friendly interface for customizing spice levels.
+<br>
+4.
+   Functional: The robot should have access to a recipe that includes healthy greens and protein sources
+   
+   Non-functional: It should ensure that the meal is nutritionally balanced and meets specific dietary goals.
+<br>
+5.
+   Functional: The robot should use ingredients and spices that provide comfort and warmth
+   
+   Non-functional: The robot should ensure that the chili and rice are served hot and at the right temperature for comfort.
+<br>
+6.
+   Functional: The robot should have a meal planning feature.
+   
+   Non-functional:
+The robot should have a user friendly interface for easy meal plan customization
+<br>
+7.
+   Functional: The robot should provide nutritional information relevant to diabetes management.
+   
+   Non-functional: The robot should ensure the meal is appealing to the diabetic user.
+<br>
+8.
+   Functional: The robot should have the option to use brown rice or quinoa as alternatives.
+   
+   Non-functional: The robot should prioritize the digestive well being of the user.
+<br>
+9.
+   Functional: The robot should be capable of packaging chili and rice in to go containers
+   
+   Non-functional: The robot should offer convenient and secure packaging for busy users.
+<br>
+10.  Functional: The robot should have a vegetarian mode to exclude meat from chili recipes.
+
+     Non-functional: The robot should ensure that the vegetarian chili meets the user's dietary preferences and standards.
 </details>
 <br>
 
@@ -377,7 +378,8 @@ A wide selection of ingredients caters to a broad audience with varying tastes a
 The feature welcomes users with diverse dietary preferences, whether they follow specific diets like veganism, have allergies, or simply prefer alternatives for personal reasons.
 9. **The robot should be capable of receiving and processing customer orders.**
 The robot will create the sandwich the user requested right after recieving it.
-10
+10. **Robot should prompt a caution and proceed when adding nuts**
+Makes it safer to avoid potential allergy hazards
 
 
 
